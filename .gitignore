@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment/secrets files
+.env
+.env.*
+# Raw source data
+data/raw/*
+!data/raw/.gitkeep
