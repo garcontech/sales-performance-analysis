@@ -80,3 +80,9 @@ The relationship between higher discounts and weaker profitability is treated as
 SQL analysis was completed in PostgreSQL as part of the same business investigation. The analysis includes KPI aggregation, category and sub-category profitability, time-based performance, discount segmentation, CTEs, and window-function ranking.
 
 The SQL queries are available in `sql/sales_performance_analysis.sql`.
+
+## Excel Analysis
+
+Excel analysis was completed as part of the same business investigation. The workbook demonstrates structured data analysis, PivotTables, calculated business metrics, SUMIFS, COUNTIFS, XLOOKUP, profitability analysis, and validation of findings established through Python/pandas and PostgreSQL.
+
+The completed Excel workbook is available in `Excel/sales_performance_analysis.xlsx`.
